@@ -8,4 +8,3 @@ git -C $GitDir switch $Branch
 git -C $GitDir pull $RemoteRepo
 # npm unlink $LibRelPath
 # npm link $LibRelPath
-# 测试
